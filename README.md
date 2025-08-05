@@ -33,7 +33,9 @@ An interactive visualizer for core **Sorting Algorithms** and **Data Structures*
 
 ## 📷 Screenshots
 
-> <img width="1453" height="920" alt="image" src="https://github.com/user-attachments/assets/7152ef56-135f-47cd-ae39-58bf3df25603" />
+> <img width="1400" height="920" alt="image" src="https://github.com/user-attachments/assets/7152ef56-135f-47cd-ae39-58bf3df25603" />
+> <img width="1121" height="795" alt="image" src="https://github.com/user-attachments/assets/2047aef7-11ae-475c-a802-deba84e18529" />
+
 
 
 ---
