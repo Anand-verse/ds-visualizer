@@ -33,7 +33,8 @@ An interactive visualizer for core **Sorting Algorithms** and **Data Structures*
 
 ## 📷 Screenshots
 
-> *(Add screenshots if possible — use Vercel app or take from browser)*
+> <img width="1453" height="920" alt="image" src="https://github.com/user-attachments/assets/7152ef56-135f-47cd-ae39-58bf3df25603" />
+
 
 ---
 
